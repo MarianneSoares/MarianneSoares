@@ -4,7 +4,7 @@
 
 
 - 💻 Atualmente estou estagiando na área de sistemas para internet na CAGEPA - Companhia de Água e Esgotos da Paraíba 🌐. 
-- Estou cursando tecnólogo na UNIESP em Sistemas para internet 🎓.
+- Estou cursando tecnólogo em Sistemas para internet na UNIESP🎓.
 - Adoro animais 🐾, passar tempo com a família, namorado e amigos. No cotidiano gosto bastante também de jogar games no pc e praticar exercícios fisicos para descansar a mente e me movimentar 💪. 
 
 ## Estou aprendendo:
