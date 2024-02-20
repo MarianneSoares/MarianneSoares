@@ -1,5 +1,5 @@
 # Bem vindo(a) ao meu perfil do GitHub.
-## Me chamo Marianne Soares e meu apelido é "Mari"!
+
 
 
 
