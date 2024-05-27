@@ -1,11 +1,13 @@
 # Bem vindo(a) ao meu perfil do GitHub.
 
+Sou uma entusiasta da tecnologia, com uma paixão especial pela linguagem Python e seus diversos frameworks voltados para análise de dados, desenvolvimento web e automação.
 
+- 💻 Atualmente, estou estagiando na área de sistemas para internet na CAGEPA - Companhia de Água e Esgotos da Paraíba 🌐, onde tenho a oportunidade de aplicar e expandir meus conhecimentos técnicos.
+- Estou cursando o tecnólogo em Sistemas para Internet na UNIESP 🎓, aprofundando minhas habilidades e conhecimentos no campo da tecnologia.
+- Tenho um forte interesse por finanças, sempre buscando aprender mais sobre o assunto.
+- Sou amante dos animais 🐾 e valorizo muito o tempo que passo com minha família, meu namorado e meus amigos.
+- No meu dia a dia, também gosto de jogar videogames e praticar exercícios físicos, atividades que considero essenciais para manter a mente descansada e a vida saudável 💪.
 
-
-- 💻 Atualmente estou estagiando na área de sistemas para internet na CAGEPA - Companhia de Água e Esgotos da Paraíba 🌐. 
-- Estou cursando tecnólogo em Sistemas para internet na UNIESP🎓.
-- Adoro animais 🐾, passar tempo com a família, namorado e amigos. No cotidiano gosto bastante também de jogar games no pc e praticar exercícios fisicos para descansar a mente e me movimentar 💪. 
 
 ## Estou aprendendo:
 
