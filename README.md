@@ -9,10 +9,6 @@ Sou uma entusiasta da tecnologia, com uma paixão especial pela linguagem Python
 - No meu dia a dia, também gosto de jogar videogames e praticar exercícios físicos, atividades que considero essenciais para manter a mente descansada e a vida saudável 💪.
 
 
-## Estou aprendendo:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" widht="40" height="40"/>
-
 ## Contatos: 
 <div>
 <a href="https://instagram.com/mariannesoaresb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
